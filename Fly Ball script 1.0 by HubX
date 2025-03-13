@@ -1,0 +1,2 @@
+-- this script by HubX
+local FlyBallGuiScript = loadstring(game:HttpGet("https://raw.githubusercontent.com/Donimus6758/Fly-ball-gui-script/refs/heads/main/Fly%20ball%20gui%20version%201.0"))()
