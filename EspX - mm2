@@ -1,0 +1,2 @@
+-- EspX mm2 by HubX
+local EspXScript = loadstring(game:HttpGet("https://raw.githubusercontent.com/Donimus6758/EspX-mm2-script/refs/heads/main/EspX%20-%20Mm2%20v%201.4"))()
