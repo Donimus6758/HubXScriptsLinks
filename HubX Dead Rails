@@ -1,1 +1,2 @@
 -- Made by HubX version 1.0
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Donimus6758/HubX-Dead-Rails/refs/heads/main/HubX%20Dead%20Rails%20Script"))()
